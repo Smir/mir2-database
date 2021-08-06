@@ -1,49 +1,13 @@
 # JevsUpdatedCrystalDatabase
 
 
--Patch Notes
+***Patch Notes*** 
 
 
 *LATEST* 
-16/04/21
+1/8/21
 
--Added Stats and correct AI's to the following mobs
-
-TurtleGrass /
-Minion_Warrior
-Minion_Warlock
-Minion_Priest
-Minion_Rouge
-Chieftain_Warrior /
-Chieftain_Warlock /
-Chieftain_Priest /
-Chieftain_Rouge /
-Chieftain_Archer /
-Master_DragonYang /
-FightingCat /
-FireCat /
-CatWidow /
-StainHammerCat /
-BlackHammerCat /
-StrayCat /
-CatShaman /
-SeedingsGeneral /
-GeneralJinmYo /
-SinseokMiner /
-HellBomb1 /
-HellBomb2 /
-HellBomb3 /
-HellKnight1 /
-HellKnight2 /
-HellKnight3 /
-HellKnight4 /
-HellDestroyer /
-
--Added Repsawns & Movements & Attributes to the following maps;
-
-IceHellCavern /
-IceHellTemple(S) /
-IceHellTemple_KR /
+-Corrected the AI number for Armadillos
 
 
 27/01/21
@@ -191,3 +155,61 @@ HellDestroyer /
 IceHellCavern /
 IceHellTemple(S) /
 IceHellTemple_KR /
+
+21/04/21
+
+-Changed BW GroceryStore name to AccessoryStore
+-Various Movement fixes
+
+-Added Movements & Spawns for the following maps;
+IceHellCavern/
+IceHellTemple(S)/
+IceHellTemple_KR
+
+-Added 443 Drop files.
+
+07/06/21
+
+-Adjustecd Attritubes of BDD & WhiteDragonPassage.
+-Added CastleGi-Ryoong respawns.
+-CastleGi-Ryoong guards changed from Guard to Guard1
+
+21/06/21
+-Added Hydrax (Stats to come)
+-Added HornedSorceror (Stats to come)
+-Added BoulderSpirit (Stats to come)
+-Removed (HP)Booster&(MP)Booster from drops.
+
+1/7/21
+
+-Added the following mobs with correct images (Stats to be added for all)
+
+-HornedSorceror
+-HornedArcher
+-HornedCommander
+-HornedMage
+-HornedWarrior
+-BoulderSpirit
+
+2/7/21
+
+-Altered drops of HornedCommander.
+
+4/7/21
+
+-Edited drop files for the following monsters;
+HornedCommander/HornedMage/HornedSorceror/HornedArcher/HornedWarrior.
+
+17/7/21
+
+-Added the following monsters for the server to launch;
+Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
+-Fixed Trust Merchant script
+
+18/7/21
+
+-Added 813 extra maps
+
+1/8/21
+
+-Corrected the AI number for Armadillos
